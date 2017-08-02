@@ -1,0 +1,20 @@
+<resources>
+    <string name="app_name">HappyBirthdayNelson</string>
+
+    <string name="proj_code_name">Project Red Kangaroo</string>
+    <string name="main_greeting">Welcome to Project Red Kangaroo</string>
+    <string name="no_cnxn">No active inputs detected.</string>
+    <string name="inputs_hdr">Available sources:</string>
+    <string name="hdmi1">HDMI #1</string>
+    <string name="hdmi2">HDMI #2</string>
+    <string name="hdmi3">HDMI #3</string>
+    <string name="hdmi4">HDMI #4</string>
+
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+
+    <string name="hdmi_state0">"/sys/devices/virtual/switch/hdmi/state"</string>
+    <string name="hdmi_state1">"/sys/class/switch/hdmi/state"</string>
+    <string name="hdmi_intent">"android.intent.action.HDMI_PLUGGED"</string>
+    <string name="refreshBtn">Click to refresh...</string>
+</resources>
